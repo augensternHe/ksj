@@ -1,0 +1,10 @@
+E:\csCode\cs\001\csAcq4\csAcq4\bin\Release\csAcq4.exe.config
+E:\csCode\cs\001\csAcq4\csAcq4\bin\Release\csAcq4.exe
+E:\csCode\cs\001\csAcq4\csAcq4\bin\Release\csAcq4.pdb
+E:\csCode\cs\001\csAcq4\csAcq4\obj\Release\csAcq4.csproj.AssemblyReference.cache
+E:\csCode\cs\001\csAcq4\csAcq4\obj\Release\csAcq4.Form1.resources
+E:\csCode\cs\001\csAcq4\csAcq4\obj\Release\csAcq4.Properties.Resources.resources
+E:\csCode\cs\001\csAcq4\csAcq4\obj\Release\csAcq4.csproj.GenerateResource.cache
+E:\csCode\cs\001\csAcq4\csAcq4\obj\Release\csAcq4.csproj.CoreCompileInputs.cache
+E:\csCode\cs\001\csAcq4\csAcq4\obj\Release\csAcq4.exe
+E:\csCode\cs\001\csAcq4\csAcq4\obj\Release\csAcq4.pdb
